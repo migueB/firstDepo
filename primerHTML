@@ -1,0 +1,19 @@
+
+<DOCTYPE.html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title> Simple Page </title>
+<script src = "script.js" defer></script>
+</head>
+
+<body>
+<div class  = "me">
+<p> Hi There ! </p>
+<div>|
+
+<h1 style="color:blue">  App de Miguel </h1>
+
+</body>
+
+</html>
